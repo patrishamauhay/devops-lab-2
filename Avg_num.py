@@ -15,4 +15,3 @@ else:
     print(f"Smallest Number: (smallest)")
 
     
-    #We had completed the average numbers.
